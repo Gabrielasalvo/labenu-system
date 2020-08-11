@@ -3,6 +3,11 @@
 <p align="center"><img src="https://i.imgur.com/qOjIDxz.png"/></p>
 
 
+## Labenu System
+
+#### Sistema de gerenciamento de alunos e professores.
+
+
 
 Você estuda na Labenu_ há tanto tempo que já parecem anos, não é? Então, hoje, vamos pedir para criar um sistema que represente o básico da nossa organização. 
 
@@ -35,3 +40,15 @@ As funcionalidades básicas são:
 → Adicionar docente na turma; e
 
 → Pegar a idade de algum estudante a partir do id
+
+<mark> LINGUAGENS UTILIZADAS</mark>
+
+
+<mark>INSTALAÇÃO </mark>
+```
+
+1. git clone em sua máquina
+2. Entre na pasta do seu projeto, dê <blackquote> npm install dentro do projeto </blackquote>
+3. npm start para rodar funções
+
+```
