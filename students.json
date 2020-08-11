@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Ivana",
+  "email": "ivana@ivana.com",
+  "birthDay": null,
+  "hobbies": [
+    "Cuidar da Nina, ser sinistra no JAVA, dormir de madrugada"
+  ]
+}
