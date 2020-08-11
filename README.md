@@ -48,7 +48,7 @@ As funcionalidades básicas são:
 ```
 
 1. git clone em sua máquina
-2. Entre na pasta do seu projeto, dê <mark>npm install dentro do projeto</mark>
-3. npm start para rodar funções
+2. Entre na pasta do seu projeto, dê ***npm install dentro do projeto***
+3. *** npm start para rodar aplicação
 
 ```
